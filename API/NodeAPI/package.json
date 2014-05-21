@@ -1,0 +1,12 @@
+{
+    "name": "ocm-mirror",
+    "description": "Open Charge Map API Mirror",
+    "homepage": "http://openchargemap.org",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "~4.x",
+        "mongodb": "~1.x",
+        "request": "~2.x"
+    }
+}
