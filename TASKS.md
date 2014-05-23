@@ -1,0 +1,5 @@
+- [ ] Implement subset of API parameters
+  - [ ] connectiontypeid
+  - [ ] operatorid
+- [ ] Gzip Output
+- [ ] Documentation
