@@ -173,3 +173,5 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 App/Ionic2/ocm-app/.vscode/settings.json
+
+App/Ionic2/ocm-app/\.sourcemaps/
